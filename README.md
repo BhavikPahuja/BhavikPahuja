@@ -6,7 +6,7 @@ I'm a full-stack developer and Java enthusiast with a strong grasp of Data Struc
 
 ## 🚀 Featured Projects
 
-### 📊 Data Access Monitor — Full-Stack Privacy Dashboard  
+### 📊 Concentria — Full-Stack Privacy Dashboard  
 A MERN-based platform to help users **monitor and control** data access permissions, cookies, and clipboard activity across websites.  
 🔐 Your digital rights. Visualized.
 
