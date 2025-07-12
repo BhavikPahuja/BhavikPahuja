@@ -21,7 +21,7 @@
 
         .tech-item {
           margin-right: 40px;
-          color: white;
+          color`: white;
         }
       </style>
       <div class="scrolling-container">
