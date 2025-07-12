@@ -42,5 +42,5 @@ Frameworks: React | Node.js | Express | Django
 Tools:      MongoDB | Firebase | Arduino | Tailwind CSS | Git  
 ```
 
-<img src="techstack-scroller.svg" alt="Tech Stack" style="width: 100%; max-width: 1000px;" />
+<img src="techstack.svg" alt="Tech Stack" style="width: 100%; max-width: 1000px;" />
 
