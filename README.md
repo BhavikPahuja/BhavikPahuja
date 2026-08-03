@@ -85,7 +85,7 @@ Currently exploring Agentic AI, LangGraph, LLM-powered workflows, browser securi
 
 | Platform | Achievement |
 |-----------|------------|
-| LeetCode | Knight (1848 Rating) |
+| LeetCode | Knight (1958 Rating) |
 | Codeforces | Specialist (1533 Rating) |
 | CodeChef | 2★ |
 
